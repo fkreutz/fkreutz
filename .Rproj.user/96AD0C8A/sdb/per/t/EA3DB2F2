@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"tlable\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n## Tables\n\nEstas sao minhas notas",
+    "created" : 1476969580644.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1573410334",
+    "id" : "EA3DB2F2",
+    "lastKnownWriteTime" : 1476980054,
+    "last_content_update" : 1476980056429,
+    "path" : "~/fkreutz/tableou.Rmd",
+    "project_path" : "tableou.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
